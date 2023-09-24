@@ -1,0 +1,5 @@
+@font-face{font-family:'Font Awesome 5 Brands';font-style:normal;font-weight:400;src:url('../webfonts/raw/main/fa-brands-400.woff2') format('woff2'),url('../webfonts/raw/main/fa-brands-400.woff') format('woff')}
+  
+@font-face{font-family:'Font Awesome 5 Pro';font-style:normal;font-weight:400;src:url('../webfonts/raw/main/fa-regular-400.woff2') format('woff2'),url('../webfonts/raw/main/fa-regular-400.woff') format('woff')}
+  
+@font-face{font-family:'Font Awesome 5 Pro';font-style:normal;font-weight:900;src:url('../webfonts/raw/main/fa-solid-900.woff2') format('woff2'),url('../webfonts/raw/main/fa-solid-900.woff') format('woff')}
